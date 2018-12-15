@@ -1,0 +1,70 @@
+<div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+            <div class="counter wow fadeInRight" data-wow-delay="0.3s">
+              <div class="icon"><i class="lni-map"></i></div>
+              <p>IIT Bombay</p>
+              <span>Powai, Mumbai</span>
+            </div>
+          </div>
+          <!-- Counter Item -->
+          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+            <div class="counter wow fadeInRight" data-wow-delay="0.6s">
+              <div class="icon"><i class="lni-timer"></i></div>
+              <p>January 19 - 20, 2019</p>
+              <span>8:00 AM on 19 Jan – 08:00 PM on 20 Jan</span>
+            </div>
+          </div>
+          <!-- Counter Item -->
+          <div class="col-md-6 col-lg-3 col-xs-12 work-counter-widget text-center">
+            <div class="counter wow fadeInRight" data-wow-delay="0.9s">
+              <div class="icon"><i class="lni-users"></i></div>
+              <p>3 Tracks</p>       
+              <span>400 Selections</span>
+            </div>
+          </div>
+
+
+
+<section id="about" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title-header text-center">
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">About The Hackathon</h1>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">i_Hack comprises of 3 parallel tracks :</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-md-6 col-lg-4">
+            <div class="about-item">
+              <img class="img-fluid" src="assets/img/about/img1.jpg" alt="">
+              <div class="about-text">
+                <h3><a href="#">Blockchain Track</a></h3>
+                <p>Ever felt awestruck by the immense possibilities blockchain might bring in the future? Ever wanted to dive into this complicated but beautiful technology? We have got you covered. Blockchain track will be an open track with no pre-defined problem statement, where you can build whatever you feel like could be the next big thing for this world. This track will accept a maximum of <strong>200</strong> hackers.</p>
+                <!-- <a class="btn btn-common btn-rm" href="#">Read More</a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6 col-lg-4">
+            <div class="about-item">
+              <img class="img-fluid" src="assets/img/about/img2.jpg" alt="">
+              <div class="about-text">
+                <h3><a href="#">Software track</a></h3>
+                <p>Can't control the geeky entrepreneurial side of yours? always wanted to build great tech and and optimize things, but always were a little confused where to start with? We have something for you as well. The Software Track will have a pre-defined problem statement for which hackers will have to come up with the most optimum solution in 30 hours and the most practical and innovative solution will be the winner. The problem statement will be released just prior to the hackathon. This track will accept a maximum of <strong>100</strong> hackers.</p>
+                <!-- <a class="btn btn-common btn-rm" href="#">Read More</a> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6 col-lg-4">
+            <div class="about-item">
+              <img class="img-fluid" src="assets/img/about/img3.jpg" alt="">
+              <div class="about-text">
+                <h3><a href="#">Hardware Track</a></h3>
+                <p>Want to be the next Rancho, and in too deep a relationship with the electronic world? Always more excited about MIPS then Movies? If you are in deep love with the microprocessors and chips and controllers and ICs, and feel left out at most hackathons because you don't like to code, then this track is for you. You will receive hardware components to build upon and will have to come up with an amazingly awesome product of your own. This track will accept a maximum of <strong>100</strong> hackers </p>
+                <a class="btn btn-common btn-rm" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
